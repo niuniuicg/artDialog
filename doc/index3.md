@@ -1,4 +1,4 @@
-# artDialog
+# artDialog 
 
 [首页](http://aui.github.io/artDialog/) &gt; [文档与示例](http://aui.github.io/artDialog/doc/index.html)
 
