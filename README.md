@@ -1,4 +1,4 @@
-#	artDialog
+#	artDialog --test
 
 [![CDNJS](https://img.shields.io/cdnjs/v/artDialog.svg)](https://cdnjs.com/libraries/artDialog)
 [![NPM Version](https://img.shields.io/npm/v/art-dialog.svg)](https://npmjs.org/package/art-dialog)
